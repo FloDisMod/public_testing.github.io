@@ -5,33 +5,18 @@ feature_text: |
 feature_image: "/assets/cover_photo.png"
 
 ---
-
-
 <br />
-<br />
-<br />
-<br />
-<br />
-
+<!-- 
 #### Visit [Coastal Emergency Risks Assessment (CERA)](https://cera.coastalrisk.live)
 <br />
-
-Access the latest model: link
-{% include figure.html image="/assets/project/flood_model.png"  width="400" height="400" %}
+{% include figure.html image="/assets/project/flood_model.png" position="right" width="800" height="800" %}
 
 <br />
 Access the latest model: link
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
 <br />
 #### Publications
-list
+list -->
 <br />
 {% include button.html text="Back" link="/research_page/" %}

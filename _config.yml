@@ -83,7 +83,7 @@ lang: en-GB # Set the site language
 title: "FloDisMod" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/FloDisMod_Wordmark__tagline.png" # Site logo, also used in jekyll-seo-tag
 description: "A Framework for Flood and Disease Modeling" # Site description and default description, also used in jekyll-seo-tag
-url: "https://www.flodismod.com" # Site url, also used in jekyll-seo-tag
+url: "https://flodismod.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/FloDisMod/flodismod.github.io"
 email: "liting@utexas.edu" #[LT:Don't know what this is for. Put my email here.]
@@ -105,23 +105,23 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation [LT: modify all the files mentioned here]
 navigation_header:
-- title: HOME
+- title: Home
   url: /
-- title: TEAM
+- title: Team
   url: /groups/
-- title: RESEARCH
+- title: Research
   url: /research_page/
 # - title: Education
 #   url: /education/
-- title: NEWS
+- title: News
   url: /news/
-- title: EXTENSION & OUTREACH
+- title: Extension & Outreach
   url: /extension_outreach/
-- title: DIGITAL INFRASTRUCTURE
-  url: /digital_infra/
-- title: CONTACT
+# - title: Digital Infrastructure
+#   url: /digital_infra/
+- title: Contact
   url: /contact/
-- title: SEARCH
+- title: Search
   url: /search/
 
 
@@ -146,9 +146,7 @@ navigation_footer:
 #
 # TIP: Try to keep the number of urls as low to reduce the performance cost
 #      If multiple fonts can be requested in a single url opt for this
-
-
-fonts: 
+fonts:
   preconnect_urls:
     - https://fonts.gstatic.com
   font_urls:

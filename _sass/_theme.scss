@@ -9,24 +9,10 @@ body {
 }
 
 .container {
-  width: 80%;
-  max-width: 2000px;
-  margin: auto;
-}
-
-.container2 {
-  width: 80%;
-  max-width: 1400px;
-  margin: auto;
-}
-
-.container3 {
-  width: 80%;
+  width: 90%;
   max-width: 1200px;
-  margin: auto;
+  margin: 0 auto;
 }
-
-
 
 
 // Header, feature and footer
@@ -60,49 +46,17 @@ body {
 .feature {
   padding-bottom: .4rem;
   margin-bottom: 1.6rem;
-  text-align: left;
+  text-align: center;
   background: $featureBackgroundColour;
   background-size: cover;
-  background-position: left;
-  color: #ffffff;
-  
+  background-position: center;
   .container {
-    min-height: 50vh;
-    max-width: 90%;
+    min-height: 35vh;
+    max-width: 60%;
     @include flex-direction(column);
     @include justify-content(center);
-    // font-size: 28pt;
-    // line-height: 150%;
-    // font-size: 28pt;
-    // line-height: 200%;
-    // font-weight: bold;
   }
 }
-
-.feature-text{
-  padding: 10px 0;
-  padding-top: .4rem;
-  margin-top: 1.6rem;
-  margin-left: .8rem;
-  color: #ffffff;
-  text-align: left;
-  font-size: 26pt;
-  line-height: 150%;
-  font-weight: bolder;
-}
-
-
-.feature-credit{
-  padding-bottom: .4rem;
-  margin-bottom: .4rem;
-  margin-left: .8rem;
-  color: #ffffff;
-  text-align: left;
-  font-size: 12pt;
-  font-weight: lighter;
-}
-
-
 
 .logo {
   display: inline-block;
@@ -177,15 +131,13 @@ body {
 
 .header,
 .feature,
-
-
 .footer {
   @include flex(0, 0, auto);
 }
 
 .content {
   @include breakpoint(break-1) {
-    width: 90%;
+    width: 62%;
   }
 }
 

@@ -1,22 +1,43 @@
 ---
 title: FloDisMod
-feature_text: 
-  Turning the Tide on Decision Support Systems
-feature_image: "/assets/cover_photo/IMG_8231-2.png"
-feature_credit: Photo courtesy of Manuel Trevino
+feature_text: |
+  A Framework for Flood and Disease Modeling
+
+feature_image: "/assets/cover_photo.png"
 ---
 
-### Research Spotlight     
-<!-- <span style="font-size:20px;">  [See All Projects](/research_page/)</span> -->
+# Under Construction
+<!-- ## Learn Our Work in 1 minute
 
 
-{% include display-research.html%}
+Some paragraphs. -->
+<!-- 
 
-### About Us
+## Research Spotlight     <span style="font-size:20px;">  [See All Projects](/research_page/)</span>
 
-FloDisMod is a framework for flood and disease modeling, focusing on the area of South Texas and Mexico. We work on understanding the dynamics of the relationship between emerging infectious diseases and climate change, in order to identify and predict health risks. Our team comprises of flood modelers, infectious disease experts, and epidemiologists. Community engagement will be used to incorporate local issues with flooding and diseases into our models.
+{% include figure.html image="/assets/project/sanguisuga.png" position="left" width="350" height="350" %}
+<br />
+<br />
+### [Kissing Bugs in North America](/project/kissing_bug)
+[Read More](project/kissing_bug)
+<br />
+<br />
+<br />
+<br />
 
+{% include figure.html image="/assets/project/flood_model.png" position="left" width="350" height="350" %}
+<br />
+<br />
+### [Model Flooding and Storm Surges](/project/flood_model)
+[Read More](/project/flood_model)
+<br />
+<br />
+<br />
+<br />
+<br />
 
-A key aim of our project is to develop an openly accessible computational tool that could be used by non-expert users, such as researchers and health professionals, and allow them to use available climate inputs and epidemiological information to facilitate analysis, prediction and comprehensive visualization of data.
+## About Us
 
-{% include button.html text="Meet Our Team" link="/groups/" %}
+We bring together expertise with a variety of computational/mathematical modeling and community engagement experience applied to flooding and infectious diseases. The long-term goal of this project is to enhance society’s knowledge of the impact of the emergence of infectious diseases in vulnerable populations in the world’s coastal regions and provide models and maps that can be used to guide the disease management in these regions, influenced by seasonality, extreme weather and project climate change events, with the ultimate goal of helping prevent/control infectious diseases.
+
+{% include button.html text="Meet Our Team" link="/groups/" %} -->

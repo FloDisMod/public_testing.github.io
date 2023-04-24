@@ -1,8 +1,8 @@
-const version = '20230423175007';
+const version = '20230413155204';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/media/2023/02/27/planetTexas2050/","/media/2023/02/03/wellcome-trust-announcement/","/media/2023/02/03/Eddie-on-Youtube/","/hide-posts/2023-01-24-kissingbugs-1/","/hide-posts/2023-01-25-model/","/hide-posts/2023-01-26-CERA/","/contact/","/digital_infra/","/education/","/elements/","/extension_outreach/","/project/flood_model/","/groups/","/blog/","/","/index_search/","/project/kissing_bug/","/manifest.json","/news/","/offline/","/ourteam/profile_al/","/ourteam/profile_becky/","/ourteam/profile_christy/","/ourteam/profile_clintDawson/","/ourteam/profile_eirik/","/ourteam/profile_example/","/ourteam/profile_jennifer/","/ourteam/profile_katherineBrown/","/ourteam/profile_liting/","/ourteam/profile_michael/","/ourteam/profile_paty/","/ourteam/profile_suzanne/","/ourteam/profile_tamer/","/ourteam/profile_will/","/publications/","/research_page/","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/FloDisMod_Wordmark__tagline.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/media/2023/02/27/planetTexas2050/","/media/2023/02/03/wellcome-trust-announcement/","/media/2023/02/03/Eddie-on-Youtube/","/contact/","/digital_infra/","/education/","/elements/","/extension_outreach/","/project/flood_model/","/groups/","/blog/","/","/index_search/","/project/kissing_bug/","/manifest.json","/news/","/offline/","/ourteam/profile_example/","/publications/","/research_page/","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/FloDisMod.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

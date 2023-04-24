@@ -12,17 +12,12 @@ span.small {
   padding: 10px;
 }
 
-.left{
-  width: 20%;
-  margin-left: 10%;
-}
-
-.right{
-  width: 55%;
+.left, .right {
+  width: 30%;
 }
 
 .middle {
-  width: 3%;
+  width: 40%;
 }
 
 /* Clear floats after the columns */
@@ -32,50 +27,16 @@ span.small {
   clear: both;
 }
 
-/* p.a {
+p.a {
   margin: 20px 20px;
   font-size: 10px;
   line-height: 11px;
-} */
+}
 
 p.b {
   margin: 20px 20px;
-  font-size: 15px;
-  line-height: 17px;
-  color: #ffffff;
-  overflow-wrap: break-word;
-
-}
-
-.b2 {
-  /* margin: 10px 60px; */
-  margin-left: 12%;
-  color: #ffffff;
-}
-
-.b3 {
-  /* margin: 10px 60px; */
-  margin-left: 20px;
-  color: #ffffff;
-}
-
-.b4 {
-  /* margin: 10px 60px; */
-  margin-left: 15%;
-  color: #ffffff;
-}
-
-
-.white-box {
-    background-color: white;
-    color: black;
-    margin: 20px 20px;
-}
-
-.vl {
-  border-left: 1px solid white;
-  height: 350px;
-  margin: 20px 10px;
+  font-size: 12px;
+  line-height: 12px;
 }
 
 </style>
@@ -83,37 +44,26 @@ p.b {
 <footer class="footer">
   <div class="row">
       <div class="column left">
-        <br>
-        <div class='b2'><img src="/assets/organization_logo/oden-white.svg" height=100px width=230px></div>
-        <div ><img src="/assets/organization_logo/knockout_university_primary.png"  height=140px width=310px></div>
-        <div class='b4'><img src="/assets/organization_logo/utrgv-logo.png" height=80px width=190px></div>
-        </div>
-
-      <div class="column middle vl">
+        <p class='b'>&copy; The University of Texas at Austin {{ site.time | date: '%Y' }}</p>
+        <!-- <div class="copyright  typeset">
+          <small class="small">&copy; {{ site.title }} {{ site.time | date: '%Y' }}</small>
+        </div> -->
       </div>
-      
 
+      <div class="column middle">
+        <p class='b'>This work is supported by Wellcome Trust, Planet Texas 2050 and Hook Fellowships - St. Edwards University.</p>
+      </div>
       <div class="column right">
-        <p class='b'>This work is supported by Wellcome Trust, Planet Texas 2050, Texas Water Development Board (TWDB Contract No. 2201792620) and NSF-PREEVENTS (1855047).</p>
-        <div class='b3'>
-          <img src="/assets/organization_logo/Wellcome_Trust_logo.png" style="background-color:#ffffff" width=60px height=60px>
-          <img src="/assets/organization_logo/planet-texas.jpg" style="background-color:#ffffff"  height=60px width=155px>
-          <img src="/assets/organization_logo/NSF_Official_logo_High_Res_1200ppi.png" style="background-color:#ffffff"  height=60px width=60px>
-          <img src="/assets/organization_logo/texas-water-development-board-vector-logo.png" style="background-color:#ffffff"  height=60px width=109px>
-        </div>
-        <p class='b'>Project Manager Dr. Chrysoula Panethymitaki: <a href="mailto:name@email.com">chrysoula@austin.utexas.edu</a></p>
-        <p class='b'>&copy; The University of Texas at Austin {{ site.time | date: '%Y' }} | <a class='b' href="https://emergency.utexas.edu">Emergency Information</a> | <a class='b' href="https://www.utexas.edu/site-policies">Site Policies</a> | <a class='b' href="https://it.utexas.edu/policies/web-accessibility">Web Accessibility Policy</a> | <a class='b' href="https://it.utexas.edu/policies/web-privacy">Web Accessibility Policy</a></p>
-        <p class='b'>Data Disclaimer: please check with your regional National Weather Service office for the official water level forecast. For official storm surge information associated with tropical cyclones, please consult advisories and warnings issued by the National Hurricane Center.</p>
-        <p class='b'>All rights reserved.</p>
+        <p class='b'>Contact: Dr. Chrysoula Panethymitaki</p>
+        <p class='b'><a href="mailto:name@email.com">chrysoula@austin.utexas.edu<a> </p>
       </div>
   </div>
-  <!-- <div class="row">
+  <div class="row">
     <center>
-    <p class='b'>&copy; The University of Texas at Austin {{ site.time | date: '%Y' }} | <a class='b' href="https://emergency.utexas.edu">Emergency Information</a> | <a class='b' href="https://www.utexas.edu/site-policies">Site Policies</a> | <a class='b' href="https://it.utexas.edu/policies/web-accessibility">Web Accessibility Policy</a> | <a class='b' href="https://it.utexas.edu/policies/web-privacy">Web Accessibility Policy</a></p>
-    <p class='b'>Data Disclaimer: please check with your regional National Weather Service office for the official water level forecast. For official storm surge information associated with tropical cyclones, please consult advisories and warnings issued by the National Hurricane Center.</p>
-    <p class='b'>All rights reserved.</p>
+    <!-- <p class='a'>Data Disclaimer: please check with your regional National Weather Service office for the official water level forecast. For official storm surge information associated with tropical cyclones, please consult advisories and warnings issued by the National Hurricane Center.</p> -->
+    <p class='a'>All rights reserved.</p>
     </center>
-  </div> -->
+  </div>
 </footer>
 
     <!-- {% include nav-footer.html %} -->

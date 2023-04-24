@@ -1,16 +1,8 @@
 ---
 title: Team
-feature_text: |
-  ## Team
 
 feature_image: "/assets/cover_photo.png"
 ---
-
-
-{% include profile-card.html%}
-
-
-<!-- 
 ## Group Members
 <br />
 
@@ -53,7 +45,7 @@ email
 research interests<br />
 email
 
-<br />
+<!-- <br />
 <br />
 ## Funding
 <br />

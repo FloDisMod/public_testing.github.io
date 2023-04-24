@@ -30,38 +30,10 @@
   
   
   {
-    "title": "Kissing Bugs Database Releases!",
-    "excerpt": "\n",
-    "content": "Description 1\n\n\nHave a link here to Texas Data Repository\n\n\nBack\n\n",
-    "url": "/hide-posts/2023-01-24-kissingbugs-1/"
-  },
-  
-  {
-    "title": "Access the Kissing Bugs modeling tool today!",
-    "excerpt": "\n",
-    "content": "Description 1\n\n\n\n\n\n\nBack\n\n",
-    "url": "/hide-posts/2023-01-25-model/"
-  },
-  
-  {
-    "title": "Coastal Emergency Risks Assessment (CERA)",
-    "excerpt": "\n",
-    "content": "Description 1\n\nDescription 1\n\nVisit CERA\n\n\n\nBack\n\n",
-    "url": "/hide-posts/2023-01-26-CERA/"
-  },
-  
-  {
     "title": "Contact",
     "excerpt": "\n",
-    "content": "Do you have questions about collaborating with FloDisMod project group, comments about our work, or questions for our team?\n\nGet in touch with our Project Manager Dr. Chrysoula Panethymitaki: chrysoula@austin.utexas.edu\n",
+    "content": "\n  Email: Dr. Chrysoula Panethymitaki chrysoula@austin.utexas.edu\n  Address: 201 E. 24th Street, POB 6.424, Austin, Texas 78712-1229\n\n",
     "url": "/contact/"
-  },
-  
-  {
-    "title": "Digital Infrastructure",
-    "excerpt": "\n",
-    "content": "\n\nData Repository\n\n  \n    \n      \n      Texas Data Repository \n    \n  \n\n    \n      \n        DesignSafe \n    \n\n\nWebsite\n\n  \n    \n      \n      Planet Texas 2050 \n    \n\n",
-    "url": "/digital_infra/"
   },
   
   {
@@ -74,28 +46,28 @@
   {
     "title": "Extension & Outreach",
     "excerpt": "\n",
-    "content": "\n\nPast Events\n\n  \n    \n      \n      Event 1 \n    \n  \n\n    \n      \n        Event 2 \n    \n\n\nUpcoming Events\n\n  \n    \n      \n      Event 3 \n    \n\n",
+    "content": "List of our events.\n",
     "url": "/extension_outreach/"
   },
   
   {
     "title": "Model Flooding and Storm Surges",
     "excerpt": "\n",
-    "content": "\n\n\n\n\n\nVisit Coastal Emergency Risks Assessment (CERA)\n\n\nAccess the latest model: link\n\n  \n  \n\n\n\nAccess the latest model: link\n\n\n\n\n\n\n\n\n\n\nPublications\nlist\n\nBack\n\n",
+    "content": "\n\nVisit Coastal Emergency Risks Assessment (CERA)\n\n\n  \n  \n\n\n\nAccess the latest model: link\n\n\n\nPublications\nlist\n\nBack\n\n",
     "url": "/project/flood_model/"
   },
   
   {
     "title": "Team",
     "excerpt": "\n",
-    "content": "\n\n\n    \n        \n        \n        \n        \n            Dr Clint Dawson \n            Lead PI\n            Professor, Department Chair | Aerospace Engineering &amp; Engineering Mechanics, The Oden Institute for Computational Engineering &amp; Sciences | Lead, Computational Hydraulics Group, University of Texas at Austin, The Oden Institute\n            \n               \n            view bio\n        \n    \n\n    \n        \n        \n            Dr Katherine A. Brown \n            co-PI\n            University of Texas at Austin, The Oden Institute\n            University of Cambridge, Cambridge Infectious Diseases\n            \n\n        \n            \n            view bio\n        \n\n    \n    \n        \n        \n            Dr Teresa Patricia Feria \n            co-PI\n            Associate Professor, Biology Department, University of Texas Rio Grande Valley\n             \n\n               \n            view bio\n        \n    \n\n\n    \n        \n        \n            Dr Tamer Oraby \n            co-PI\n            Associate Professor of Statistics in the School of Mathematical and Statistical Sciences, University of Texas Rio Grande Valley\n             \n\n        \n            view bio\n        \n    \n\n    \n        \n        \n            Dr Eirik Valserth \n            co-PI\n            Research Associate, at the Oden Institute, University of Texas at Austin\n            Associate Professor of Scientific Computing, Department of Data Science, Norwegian University of Life Science, Norway\n             \n\n              \n            view bio\n        \n    \n\n    \n        \n        \n            Michael Shensky \n            \n            Head of Research Data Services, University of Texas Libraries, University of Texas Austin\n            \n\n              \n            view bio\n        \n    \n    \n    \n        \n        \n            Liting Huang \n            \n            Research Associate, The Oden Institute, University of Texas\n            \n\n              \n            view bio\n        \n    \n\n    \n        \n        \n            Rebecca Langdon \n            \n            Graduate Research Assistant, The Oden Institute, University of Texas\n            \n\n              \n            view bio\n        \n    \n\n\n\n    \n        \n        \n            Dr Jennifer Proft \n            \n            Research Associate, The Oden Institute, University of Texas\n            \n\n              \n            view bio\n        \n    \n\n    \n        \n        \n            Dr Chrysoula Panethymitaki \n            FloDisMod Programme Manager\n            Consultant, FloDisMod Programme Manager, The Oden Institute, University of Texas\n            \n\n              \n            view bio\n        \n    \n\n    \n        \n        \n            Dr Albert Cerrone \n            \n            Research Assistant Professor, The Oden Institute, University of Texas\n            Research Assistant Professor, Civil and Environmental Engineering and Earth Sciences, University of Notre Dame\n            \n\n              \n            view bio\n        \n    \n\n    \n        \n        \n            Dr Suzanne Pierce \n            \n            Assistant Professor of Research, Environmental Science Institute, College of Natural Sciences, University of Texas\n            Assistant Director, Digital Media Collaboratory, Center for Agile Technology\n            \n\n              \n            view bio\n        \n    \n\n    \n        \n        \n            Dr William Mobley \n            \n            Associate Research Scientist, Institute for A Disaster Resilient TexasResearch Associate at Texas Advanced Computing Center, University of Texas Austin\n            \n\n              \n            view bio\n        \n    \n\n\n\n",
+    "content": "Group Members\n\n\n\n  \n  \n\n\nName\ntitle\nAffiliation\nresearch interests\nemail\n\n\n\n\n  \n  \n\n\nName\ntitle\nAffiliation\nresearch interests\nemail\n\n\n\n\n\nCollaborators\n\n\n\n  \n  \n\n\nName\ntitle\nAffiliation\nresearch interests\nemail\n\n\n\n\n  \n  \n\n\nName\ntitle\nAffiliation\nresearch interests\nemail\n\n\n\nFunding\n\n\n  \n  \n\n\nWellcome Trust\nSupport the FloDosMod project.\n\n\n\n\n\n\n\n  \n  \n\n\nPlanet Texas 2050\nSupport our project: AI-Enabled Model Integration.\n\n\n\n\n\n  \n  \n\n\nHook Fellowships - St. Edwards University\nSupport undergraduate research at Wild Basin/Balcones Canyonlands, development of micro-environment maps, and models with RISE and SOAR flagship (2022-2023).\n",
     "url": "/groups/"
   },
   
   {
     "title": "FloDisMod",
     "excerpt": "\n",
-    "content": "Research Spotlight\n\n\n\n\n\n  \n    \n      \n      \n        Kissing Bugs in North America \n      \n    \n  \n\n    \n      \n        \n          Model Flooding and Storm Surges\n        \n    \n\n    \n      \n        \n            Neches River: the Model Integration Testing Site \n        \n    \n\n\nAbout Us\n\nFloDisMod is a framework for flood and disease modeling, focusing on the area of South Texas and Mexico. We work on understanding the dynamics of the relationship between emerging infectious diseases and climate change, in order to identify and predict health risks. Our team comprises of flood modelers, infectious disease experts, and epidemiologists. Community engagement will be used to incorporate local issues with flooding and diseases into our models.\n\nA key aim of our project is to develop an openly accessible computational tool that could be used by non-expert users, such as researchers and health professionals, and allow them to use available climate inputs and epidemiological information to facilitate analysis, prediction and comprehensive visualization of data.\n\nMeet Our Team\n\n",
+    "content": "Learn Our Work in 1 minute\n\nSome paragraphs.\n\nResearch Spotlight       See All Projects\n\n\n  \n  \n\n\n\n\nKissing Bugs in North America\nRead More\n\n\n\n\n\n\n  \n  \n\n\n\n\nModel Flooding and Storm Surges\nRead More\n\n\n\n\n\n\nAbout Us\n\nWe bring together expertise with a variety of computational/mathematical modeling and community engagement experience applied to flooding and infectious diseases. The long-term goal of this project is to enhance society’s knowledge of the impact of the emergence of infectious diseases in vulnerable populations in the world’s coastal regions and provide models and maps that can be used to guide the disease management in these regions, influenced by seasonality, extreme weather and project climate change events, with the ultimate goal of helping prevent/control infectious diseases.\n\nMeet Our Team\n\n",
     "url": "/"
   },
   
@@ -123,7 +95,7 @@
   {
     "title": "Research",
     "excerpt": "\n",
-    "content": "\n\n\n  \n    \n      \n      \n        Kissing Bugs in North America \n      \n    \n  \n\n    \n      \n        \n          Model Flooding and Storm Surges\n        \n    \n\n    \n      \n        \n            Neches River: the Model Integration Testing Site \n        \n    \n\n",
+    "content": "\n  \n  \n\n\n\nKissing Bugs in North America\nRead More\n\n\n\n\n\n  \n  \n\n\n\nModel Flooding and Storm Surges\nRead More\n\n\n\n",
     "url": "/research_page/"
   },
   
