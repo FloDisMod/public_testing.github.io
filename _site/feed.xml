@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-GB" /><updated>2023-04-23T17:50:07-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">FloDisMod</title><subtitle>A Framework for Flood and Disease Modeling</subtitle><author><name>FloDisMod team</name></author><entry><title type="html">FloDisMod on Planet Texas 2050 News</title><link href="http://localhost:4000/media/2023/02/27/planetTexas2050/" rel="alternate" type="text/html" title="FloDisMod on Planet Texas 2050 News" /><published>2023-02-27T00:00:00-06:00</published><updated>2023-02-27T00:00:00-06:00</updated><id>http://localhost:4000/media/2023/02/27/planetTexas2050</id><content type="html" xml:base="http://localhost:4000/media/2023/02/27/planetTexas2050/"><![CDATA[<p>Johnny Holden interviewed Dr. Katherine Brown for the upcoming Planet Texas 2050 Annual Symposium. 
+<!-- more -->
+<br />
+Read the story <a href="https://bridgingbarriers.utexas.edu/news/how-flooding-informing-infectious-disease-spread">here</a>
+<br />
+<br />
+<a class="button" href="/news/">Back</a></p>]]></content><author><name>FloDisMod team</name></author><category term="Media" /><summary type="html"><![CDATA[Johnny Holden interviewed Dr. Katherine Brown for the upcoming Planet Texas 2050 Annual Symposium.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/default-social-image.png" /><media:content medium="image" url="http://localhost:4000/assets/default-social-image.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Interview with Dr. Eduardo A. Rebollar-Téllez</title><link href="http://localhost:4000/media/2023/02/03/Eddie-on-Youtube/" rel="alternate" type="text/html" title="Interview with Dr. Eduardo A. Rebollar-Téllez" /><published>2023-02-03T00:00:00-06:00</published><updated>2023-02-03T00:00:00-06:00</updated><id>http://localhost:4000/media/2023/02/03/Eddie-on-Youtube</id><content type="html" xml:base="http://localhost:4000/media/2023/02/03/Eddie-on-Youtube/"><![CDATA[<p>Watch this exciting interview with our collaborator Dr. Eduardo A. Rebollar-Téllez on Youtube.
+<!-- more --></p>
+
+<div class="video">
+  <iframe src="https://www.youtube.com/embed/CkFQDkJJIbs" frameborder="0" allowfullscreen="" title="Interview with Dr. Eduardo A. Rebollar-Téllez"></iframe>
+</div>
+
+<p><br />
+<br />
+<a class="button" href="/news/">Back</a></p>]]></content><author><name>FloDisMod team</name></author><category term="Media" /><summary type="html"><![CDATA[Watch this exciting interview with our collaborator Dr. Eduardo A. Rebollar-Téllez on Youtube.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/default-social-image.png" /><media:content medium="image" url="http://localhost:4000/assets/default-social-image.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Wellcome Trust Press Release features FloDisMod</title><link href="http://localhost:4000/media/2023/02/03/wellcome-trust-announcement/" rel="alternate" type="text/html" title="Wellcome Trust Press Release features FloDisMod" /><published>2023-02-03T00:00:00-06:00</published><updated>2023-02-03T00:00:00-06:00</updated><id>http://localhost:4000/media/2023/02/03/wellcome-trust-announcement</id><content type="html" xml:base="http://localhost:4000/media/2023/02/03/wellcome-trust-announcement/"><![CDATA[<p>Read the press release <a href="https://wellcome.org/news/digital-tools-climate-sensitive-infectious-disease">here</a>
+<!-- more -->
+<br />
+The FloDisMod project is one of the projects funded by the Wellcome Trust under Early warning systems for other types of disease transmission category.</p>
+
+<blockquote>
+  <p>FloDisMod – framework for flood and disease modelling</p>
+
+  <p>Led by researchers at the University of Texas, USA, this open-source software will model floods and storm surges – particularly those occurring in the Southern Texas border region – to better understand their impact on mosquito habitat, disease reporting, social vulnerability and health risks. The team will develop an early warning system for the Texas-Mexico border region, but it will be extended to soil-borne diseases as well as other geographies.</p>
+</blockquote>
+
+<p><br />
+<br />
+<a class="button" href="/news/">Back</a></p>]]></content><author><name>FloDisMod team</name></author><category term="Media" /><summary type="html"><![CDATA[Read the press release here]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/default-social-image.png" /><media:content medium="image" url="http://localhost:4000/assets/default-social-image.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

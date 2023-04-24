@@ -1,0 +1,138 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Interview with Dr. Eduardo A. Rebollar-Téllez",
+        "excerpt": "Watch this exciting interview with our collaborator Dr. Eduardo A. Rebollar-Téllez on Youtube.\n",
+        "content": "Watch this exciting interview with our collaborator Dr. Eduardo A. Rebollar-Téllez on Youtube.\n\n\n\n  \n\n\n\n\nBack\n\n",
+        "url": "/media/2023/02/03/Eddie-on-Youtube/"
+      },
+    
+      {
+        "title": "Wellcome Trust Press Release features FloDisMod",
+        "excerpt": "Read the press release here\n",
+        "content": "Read the press release here\n\n\nThe FloDisMod project is one of the projects funded by the Wellcome Trust under Early warning systems for other types of disease transmission category.\n\n\n  FloDisMod – framework for flood and disease modelling\n\n  Led by researchers at the University of Texas, USA, this open-source software will model floods and storm surges – particularly those occurring in the Southern Texas border region – to better understand their impact on mosquito habitat, disease reporting, social vulnerability and health risks. The team will develop an early warning system for the Texas-Mexico border region, but it will be extended to soil-borne diseases as well as other geographies.\n\n\n\n\nBack\n\n",
+        "url": "/media/2023/02/03/wellcome-trust-announcement/"
+      },
+    
+      {
+        "title": "FloDisMod on Planet Texas 2050 News",
+        "excerpt": "Johnny Holden interviewed Dr. Katherine Brown for the upcoming Planet Texas 2050 Annual Symposium.\n",
+        "content": "Johnny Holden interviewed Dr. Katherine Brown for the upcoming Planet Texas 2050 Annual Symposium. \n\n\nRead the story here\n\n\nBack\n\n",
+        "url": "/media/2023/02/27/planetTexas2050/"
+      },
+    
+  
+  
+  
+  {
+    "title": "Kissing Bugs Database Releases!",
+    "excerpt": "\n",
+    "content": "Description 1\n\n\nHave a link here to Texas Data Repository\n\n\nBack\n\n",
+    "url": "/hide-posts/2023-01-24-kissingbugs-1/"
+  },
+  
+  {
+    "title": "Access the Kissing Bugs modeling tool today!",
+    "excerpt": "\n",
+    "content": "Description 1\n\n\n\n\n\n\nBack\n\n",
+    "url": "/hide-posts/2023-01-25-model/"
+  },
+  
+  {
+    "title": "Coastal Emergency Risks Assessment (CERA)",
+    "excerpt": "\n",
+    "content": "Description 1\n\nDescription 1\n\nVisit CERA\n\n\n\nBack\n\n",
+    "url": "/hide-posts/2023-01-26-CERA/"
+  },
+  
+  {
+    "title": "Contact",
+    "excerpt": "\n",
+    "content": "Do you have questions about collaborating with FloDisMod project group, comments about our work, or questions for our team?\n\nGet in touch with our Project Manager Dr. Chrysoula Panethymitaki: chrysoula@austin.utexas.edu\n",
+    "url": "/contact/"
+  },
+  
+  {
+    "title": "Digital Infrastructure",
+    "excerpt": "\n",
+    "content": "\n\nData Repository\n\n  \n    \n      \n      Texas Data Repository \n    \n  \n\n    \n      \n        DesignSafe \n    \n\n\nWebsite\n\n  \n    \n      \n      Planet Texas 2050 \n    \n\n",
+    "url": "/digital_infra/"
+  },
+  
+  {
+    "title": "Elements",
+    "excerpt": "A demo of Markdown and HTML includes\n",
+    "content": "Heading 1\n\nHeading 2\n\nHeading 3\n\nHeading 4\n\nHeading 5\n\nHeading 6\n\nA small element\n\nA link\n\nLorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.\n\nDuis aute irure dolor in A link reprehenderit in voluptate velit esse cillum bold text dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt italicised text in culpa qui officia deserunt mollit anim id some code est laborum.\n\n\n  An item\n  An item\n  An item\n  An item\n  An item\n\n\n\n  Item one\n  Item two\n  Item three\n  Item four\n  Item five\n\n\n\n  A simple blockquote\n\n\nSome HTML…\n\n&lt;blockquote cite=\"http://www.imdb.com/title/tt0284978/quotes/qt1375101\"&gt;\n  &lt;p&gt;You planning a vacation, Mr. Sullivan?&lt;/p&gt;\n  &lt;footer&gt;\n    &lt;a href=\"http://www.imdb.com/title/tt0284978/quotes/qt1375101\"&gt;Sunways Security Guard&lt;/a&gt;\n  &lt;/footer&gt;\n&lt;/blockquote&gt;\n\n\n…CSS…\n\nblockquote {\n  text-align: center;\n  font-weight: bold;\n}\nblockquote footer {\n  font-size: .8rem;\n}\n\n\n…and JavaScript\n\nconst blockquote = document.querySelector(\"blockquote\")\nconst bolden = (keyString, string) =&gt;\n  string.replace(new RegExp(keyString, 'g'), '&lt;strong&gt;'+keyString+'&lt;/strong&gt;')\n\nblockquote.innerHTML = bolden(\"Mr. Sullivan\", blockquote.innerHTML)\n\n\nSingle line of code\n\nHTML Includes\n\nContact form\n\n\n  \n    Contact\n    Name: *\n    \n\n    Email Address: *\n    \n\n    Message: *\n    \n\n    \n    \n    * indicates a required field\n\n    \n      \n      \n      \n    \n  \n\n\n\n\nPlease enable JavaScript to use the form.\n\n{% include site-form.html %}\n\n\nDemo map embed\n\n\n\n{% include map.html id=\"XXXXXX\" title=\"Coffee shop map\" %}\n\n\nButton include\n\nA button\n\nA button with icon  twitter\n\n\n{% include button.html text=\"A button\" link=\"https://david.darn.es\" %}\n{% include button.html text=\"A button with icon\" link=\"https://twitter.com/daviddarnes\" icon=\"twitter\" %}\n\n\nIcon include\n\ntwitter\ntwitter\n\n\n{% include icon.html id=\"twitter\" title=\"twitter\" %}\n[{% include icon.html id=\"linkedin\" title=\"twitter\" %}](https://www.linkedin.com/in/daviddarnes)\n\n\nVideo include\n\n\n  \n\n\n{% include video.html id=\"zrkcGL5H3MU\" title=\"Siteleaf tutorial video\" %}\n\n\nImage includes\n\n\n  \n  Image with caption\n\n\n\n  \n  Right aligned image\n\n\n\n  \n  Left aligned image\n\n\n\n  \n  \n\n\n{% include figure.html image=\"https://picsum.photos/600/800?image=894\" caption=\"Image with caption\" width=\"300\" height=\"800\" %}\n\n{% include figure.html image=\"https://picsum.photos/600/800?image=894\" caption=\"Right aligned image\" position=\"right\" width=\"300\" height=\"800\" %}\n\n{% include figure.html image=\"https://picsum.photos/600/800?image=894\" caption=\"Left aligned image\" position=\"left\" width=\"300\" height=\"800\" %}\n\n{% include figure.html image=\"https://picsum.photos/1600/800?image=894\" alt=\"Image with just alt text\" %}\n\n",
+    "url": "/elements/"
+  },
+  
+  {
+    "title": "Extension & Outreach",
+    "excerpt": "\n",
+    "content": "\n\nPast Events\n\n  \n    \n      \n      Event 1 \n    \n  \n\n    \n      \n        Event 2 \n    \n\n\nUpcoming Events\n\n  \n    \n      \n      Event 3 \n    \n\n",
+    "url": "/extension_outreach/"
+  },
+  
+  {
+    "title": "Model Flooding and Storm Surges",
+    "excerpt": "\n",
+    "content": "\n\n\n\n\n\nVisit Coastal Emergency Risks Assessment (CERA)\n\n\nAccess the latest model: link\n\n  \n  \n\n\n\nAccess the latest model: link\n\n\n\n\n\n\n\n\n\n\nPublications\nlist\n\nBack\n\n",
+    "url": "/project/flood_model/"
+  },
+  
+  {
+    "title": "Team",
+    "excerpt": "\n",
+    "content": "\n\n\n    \n        \n        \n        \n        \n            Dr Clint Dawson \n            Lead PI\n            Professor, Department Chair | Aerospace Engineering &amp; Engineering Mechanics, The Oden Institute for Computational Engineering &amp; Sciences | Lead, Computational Hydraulics Group, University of Texas at Austin, The Oden Institute\n            \n               \n            view bio\n        \n    \n\n    \n        \n        \n            Dr Katherine A. Brown \n            co-PI\n            University of Texas at Austin, The Oden Institute\n            University of Cambridge, Cambridge Infectious Diseases\n            \n\n        \n            \n            view bio\n        \n\n    \n    \n        \n        \n            Dr Teresa Patricia Feria \n            co-PI\n            Associate Professor, Biology Department, University of Texas Rio Grande Valley\n             \n\n               \n            view bio\n        \n    \n\n\n    \n        \n        \n            Dr Tamer Oraby \n            co-PI\n            Associate Professor of Statistics in the School of Mathematical and Statistical Sciences, University of Texas Rio Grande Valley\n             \n\n        \n            view bio\n        \n    \n\n    \n        \n        \n            Dr Eirik Valserth \n            co-PI\n            Research Associate, at the Oden Institute, University of Texas at Austin\n            Associate Professor of Scientific Computing, Department of Data Science, Norwegian University of Life Science, Norway\n             \n\n              \n            view bio\n        \n    \n\n    \n        \n        \n            Michael Shensky \n            \n            Head of Research Data Services, University of Texas Libraries, University of Texas Austin\n            \n\n              \n            view bio\n        \n    \n    \n    \n        \n        \n            Liting Huang \n            \n            Research Associate, The Oden Institute, University of Texas\n            \n\n              \n            view bio\n        \n    \n\n    \n        \n        \n            Rebecca Langdon \n            \n            Graduate Research Assistant, The Oden Institute, University of Texas\n            \n\n              \n            view bio\n        \n    \n\n\n\n    \n        \n        \n            Dr Jennifer Proft \n            \n            Research Associate, The Oden Institute, University of Texas\n            \n\n              \n            view bio\n        \n    \n\n    \n        \n        \n            Dr Chrysoula Panethymitaki \n            FloDisMod Programme Manager\n            Consultant, FloDisMod Programme Manager, The Oden Institute, University of Texas\n            \n\n              \n            view bio\n        \n    \n\n    \n        \n        \n            Dr Albert Cerrone \n            \n            Research Assistant Professor, The Oden Institute, University of Texas\n            Research Assistant Professor, Civil and Environmental Engineering and Earth Sciences, University of Notre Dame\n            \n\n              \n            view bio\n        \n    \n\n    \n        \n        \n            Dr Suzanne Pierce \n            \n            Assistant Professor of Research, Environmental Science Institute, College of Natural Sciences, University of Texas\n            Assistant Director, Digital Media Collaboratory, Center for Agile Technology\n            \n\n              \n            view bio\n        \n    \n\n    \n        \n        \n            Dr William Mobley \n            \n            Associate Research Scientist, Institute for A Disaster Resilient TexasResearch Associate at Texas Advanced Computing Center, University of Texas Austin\n            \n\n              \n            view bio\n        \n    \n\n\n\n",
+    "url": "/groups/"
+  },
+  
+  {
+    "title": "FloDisMod",
+    "excerpt": "\n",
+    "content": "Research Spotlight\n\n\n\n\n\n  \n    \n      \n      \n        Kissing Bugs in North America \n      \n    \n  \n\n    \n      \n        \n          Model Flooding and Storm Surges\n        \n    \n\n    \n      \n        \n            Neches River: the Model Integration Testing Site \n        \n    \n\n\nAbout Us\n\nFloDisMod is a framework for flood and disease modeling, focusing on the area of South Texas and Mexico. We work on understanding the dynamics of the relationship between emerging infectious diseases and climate change, in order to identify and predict health risks. Our team comprises of flood modelers, infectious disease experts, and epidemiologists. Community engagement will be used to incorporate local issues with flooding and diseases into our models.\n\nA key aim of our project is to develop an openly accessible computational tool that could be used by non-expert users, such as researchers and health professionals, and allow them to use available climate inputs and epidemiological information to facilitate analysis, prediction and comprehensive visualization of data.\n\nMeet Our Team\n\n",
+    "url": "/"
+  },
+  
+  {
+    "title": "Kissing Bugs in North America",
+    "excerpt": "\n",
+    "content": "\n\n  \n  \n\n\n\nAbstract of our work\n\n\n\n\n\n\n\n\n\n\n\nKissing Bugs Spatial Distribution in North America\n\n\n\n\nDigital Infrastructure\nAccess the latest database: link\n\nAccess the latest model: link\n\n\n\nPublications\nlist\n\nBack\n\n",
+    "url": "/project/kissing_bug/"
+  },
+  
+  {
+    "title": "News",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/news/"
+  },
+  
+  {
+    "title": "List of Publications",
+    "excerpt": "\n",
+    "content": "2023\n\n  item 1\n\n",
+    "url": "/publications/"
+  },
+  
+  {
+    "title": "Research",
+    "excerpt": "\n",
+    "content": "\n\n\n  \n    \n      \n      \n        Kissing Bugs in North America \n      \n    \n  \n\n    \n      \n        \n          Model Flooding and Storm Surges\n        \n    \n\n    \n      \n        \n            Neches River: the Model Integration Testing Site \n        \n    \n\n",
+    "url": "/research_page/"
+  },
+  
+  {
+    "title": "Search",
+    "excerpt": "Search for a page or post you’re looking for\n",
+    "content": "{% include site-search.html %}\n",
+    "url": "/search/"
+  }
+  
+]
+
